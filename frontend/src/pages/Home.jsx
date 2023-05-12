@@ -13,7 +13,7 @@ export default function Home() {
 
 
     <div>
-    <Card style={{ width: '18rem' }}>
+    <Card style={{ width: '18rem' , }} className='card1'>
       <Card.Body>
         <Card.Title>Title</Card.Title>
         <Card.Text>
