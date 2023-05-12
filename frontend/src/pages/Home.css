@@ -1,0 +1,7 @@
+.anchor1 {
+  cursor: pointer;
+}
+
+.anchor1:hover {
+  color: green;
+}
